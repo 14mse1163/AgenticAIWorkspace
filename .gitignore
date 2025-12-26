@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.pckl
+
+# env file
+.env
+
+# Virtual environments
+.venv
+
+# Langgraph
+3-Debugging/3-Debugging/.langgraph_api/
+
